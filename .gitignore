@@ -1,6 +1,6 @@
 # Entorno virtual
 mi_entorno/
+venv/
 
-# Archivo de requerimientos
-requirements.txt
-
+# Directorio de caché de Python
+__pycache__/
